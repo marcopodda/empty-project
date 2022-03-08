@@ -132,10 +132,8 @@ dmypy.json
 .vscode
 .pylintrc
 
-DATA
 EXPERIMENTS
 RESULTS
-NOTEBOOKS
 
 *.png
 *.out
